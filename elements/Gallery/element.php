@@ -412,7 +412,7 @@ class Gallery extends \Breakdance\Elements\Element
         false,
         false,
         [],
-        
+
       ), c(
         "images",
         "Images",
@@ -424,7 +424,7 @@ class Gallery extends \Breakdance\Elements\Element
         false,
         false,
         [],
-        
+
       ), c(
         "image",
         "Image",

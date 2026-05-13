@@ -2,10 +2,10 @@
 
 /**
  * Plugin Name: Breakdance Custom Elements
- * Plugin URI: https://breakdance.com/
- * Description: Boilerplate plugin to save your custom elements created with Element Studio.
- * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Plugin URI: https://hehecoding.com/
+ * Description: Custom Breakdance elements created with Element Studio.
+ * Author: HeHe Coding
+ * Author URI: https://hehecoding.com/
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
